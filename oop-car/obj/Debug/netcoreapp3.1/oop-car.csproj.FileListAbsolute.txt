@@ -1,0 +1,13 @@
+C:\Users\Ilias\Desktop\minecraft\oop-car\bin\Debug\netcoreapp3.1\oop-car.exe
+C:\Users\Ilias\Desktop\minecraft\oop-car\bin\Debug\netcoreapp3.1\oop-car.deps.json
+C:\Users\Ilias\Desktop\minecraft\oop-car\bin\Debug\netcoreapp3.1\oop-car.runtimeconfig.json
+C:\Users\Ilias\Desktop\minecraft\oop-car\bin\Debug\netcoreapp3.1\oop-car.runtimeconfig.dev.json
+C:\Users\Ilias\Desktop\minecraft\oop-car\bin\Debug\netcoreapp3.1\oop-car.dll
+C:\Users\Ilias\Desktop\minecraft\oop-car\bin\Debug\netcoreapp3.1\oop-car.pdb
+C:\Users\Ilias\Desktop\minecraft\oop-car\obj\Debug\netcoreapp3.1\oop-car.csprojAssemblyReference.cache
+C:\Users\Ilias\Desktop\minecraft\oop-car\obj\Debug\netcoreapp3.1\oop-car.csproj.CoreCompileInputs.cache
+C:\Users\Ilias\Desktop\minecraft\oop-car\obj\Debug\netcoreapp3.1\oop-car.AssemblyInfoInputs.cache
+C:\Users\Ilias\Desktop\minecraft\oop-car\obj\Debug\netcoreapp3.1\oop-car.AssemblyInfo.cs
+C:\Users\Ilias\Desktop\minecraft\oop-car\obj\Debug\netcoreapp3.1\oop-car.dll
+C:\Users\Ilias\Desktop\minecraft\oop-car\obj\Debug\netcoreapp3.1\oop-car.pdb
+C:\Users\Ilias\Desktop\minecraft\oop-car\obj\Debug\netcoreapp3.1\oop-car.genruntimeconfig.cache
